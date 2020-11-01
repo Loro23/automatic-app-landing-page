@@ -4,15 +4,21 @@ title: Ups
 include_in_header: true
 ---
 
-**Last updated**  
-August 1 2019
 
 # Ups ein Fehler ist aufgetreten
 Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App aktuell down ist. Wir suchen aktuell noch dringend nach neuen Testern für die Features, wie Swipe und Community Share. Bitte trage dich mit deiner E-Mail bei uns ein, wenn du Lust hast bereits vor Release unsere neusten Features zu testen. 
 <br>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="/mystyle.css">
+</head>
+<body>
+
 <div class="container">
-  <form action="action_page.php">
+  <form action="/action_page.php">
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
@@ -34,3 +40,11 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
 
   </form>
 </div>
+
+
+</body>
+</html>
+
+
+
+
