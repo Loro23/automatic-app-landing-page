@@ -21,7 +21,7 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
     
     <label for="subject">Nachricht</label>
     <textarea id="subject" name="subject" placeholder="Deine Nachricht..." style="height:200px"></textarea>
-    <input type="submit" value="Submit">
+    <input type="submit" value="Senden">
  </form>
 </div>
 
