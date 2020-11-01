@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Entdecke deine Lieblingsfilme
+    description                           : Mit unserem Tool kannst du deine Lieblingsfilme finden, deine Top-Listen schreiben und die schlechten ausmisten.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Filmabende retten.
+    description                           : Teilt eure Lieblingsfilme und findet den besten Film für den nächsten Filmabend. Keine 30 min vor Netflix sitzen bevor ihr den Film gefunden habt.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Wo was läuft
+    description                           : Finde zu jedem Film den passenden Streaminganbieter.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Automatic Icon and Metadata
