@@ -22,7 +22,7 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
     Deine Nachricht:
     <textarea style="width:100%;margin-top:20px" name="message"></textarea>
   </label>
-  <button type="submit" style="width:100%;border-radius:5%; margin-top:20px;   background-color:#005CFF;
+  <button type="submit" style="width:100%;border-radius:20px; margin-top:20px;   background-color:#005CFF;
   border: none;
   color: white;
   padding: 15px 32px;
