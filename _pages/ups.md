@@ -13,15 +13,23 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
   action="https://formspree.io/f/mgepyygb"
   method="POST"
 >
-  <label>
+  <label style="padding:20px;">
     Deine Email:
-    <input type="text" name="_replyto">
+    <input type="text" style="width:100%; margin:20px" name="_replyto">
   </label>
-  <label>
+  <br>
+  <label style="padding:20px;">
     Deine Nachricht:
-    <textarea name="message"></textarea>
+    <textarea style="margin:20px; width:100%" name="message"></textarea>
   </label>
-  <button type="submit">Senden</button>
+  <button type="submit" style="width:100%; margin:20px;   background-color:#005CFF;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;">Senden</button>
   </form>
 
 
