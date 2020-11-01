@@ -18,7 +18,7 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
     <input type="text" style="width:100%;margin-top:20px" name="_replyto">
   </label>
   <br>
-  <label style="margin-top:20px">
+  <label style="margin-top:30px">
     Deine Nachricht:
     <textarea style="width:100%;margin-top:20px" name="message"></textarea>
   </label>
