@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ups
-include_in_header: true
+include_in_header: false
 ---
 
 
