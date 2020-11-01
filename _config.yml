@@ -82,7 +82,7 @@ topbar_transparency                       : 0.8
 topbar_title_color                        : "#ffffff"
 
 cover_image                               : assets/popcorn.jpg                                          # Replace with alternative image path or image URL.
-cover_overlay_color                       : "#1D1D1D"
+cover_overlay_color                       : "#0A0A0A"
 cover_overlay_transparency                : 1
 
 
