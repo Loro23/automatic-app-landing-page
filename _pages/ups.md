@@ -10,13 +10,6 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
 <br>
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="/mystyle.css">
-</head>
-<body>
-
 <div class="container">
   <form action="/action_page.php">
 
@@ -41,9 +34,6 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
   </form>
 </div>
 
-
-</body>
-</html>
 
 
 
