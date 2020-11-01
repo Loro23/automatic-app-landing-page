@@ -77,8 +77,8 @@ features                                  :
 
 
 # Theme Settings
-topbar_color                              : "#ffffff"
-topbar_transparency                       : 0.1
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.8
 topbar_title_color                        : "#000000"
 
 cover_image                               : assets/popcorn.jpg                                          # Replace with alternative image path or image URL.
@@ -92,9 +92,9 @@ body_background_color                     : "#1D1D1D"
 
 link_color                                : "#ffffff"
 
-app_title_color                           : "#000000"
-app_price_color                           : "#000000"
-app_description_color                     : "#000000"
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
