@@ -10,7 +10,7 @@ Wir arbeiten aktuell an einer neuen technischen Umsetzung, weslhalb unsere App a
 <br>
 
 <form
-  action="https://formspree.io/f/mgepyygb"
+  action="https://formspree.io/f/xleonwkk"
   method="POST"
 >
   <label style="margin-top:20px">
