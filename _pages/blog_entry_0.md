@@ -4,7 +4,7 @@ title: Das Problem
 include_in_header: true
 ---
 
-# Schon wieder das lange suchen….
+# Schon wieder das lange suchen… Lelele.
 
 Jeder der einen Streaming Service wie Netflix, Disney Plus oder Amazon Prime Video benutzt kennt das Problem: Einfach und schnell einen neuen Film mit seinen Freunden zu finden ist häufig nie einfach und schnell. Kein Film scheint allen gleich anzusprechen. Eine Entscheidung ist noch lange nicht in Sicht. „Passen unsere Interessen nicht zusammen?“, denkt man sich. <br>
 
