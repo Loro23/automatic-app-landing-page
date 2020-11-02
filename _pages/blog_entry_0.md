@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Einrag 0
+title: Das Problem
 include_in_header: true
 ---
 
